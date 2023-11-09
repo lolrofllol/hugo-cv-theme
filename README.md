@@ -1,5 +1,7 @@
-# Almeida CV Theme
+# Dofudo CV Theme
 Theme to build a customizeable printable HTML/CSS CV.
+
+#### [Forked from orginal repo almeida-cv](https://github.com/ineesalmeida/almeida-cv)
 
 ![Screenshot](images/screenshot-full.png)
 
@@ -19,16 +21,16 @@ If badges and other elements with background don't render correctly, remember to
 
 # Usage
 ## Install Hugo (extended)
-To use `almeida-cv` theme you need to install Hugo Extended by following https://gohugo.io/getting-started/installing/.
+To use `dofudo-cv` theme you need to install Hugo Extended by following https://gohugo.io/getting-started/installing/.
 
 ## Create your personal website
 ```
 hugo new site <your website's name>
 cd <your website's name>
 git init
-git submodule add https://github.com/ineesalmeida/almeida-cv.git themes/almeida-cv
+git submodule add https://github.com/lolrofllol/hugo-cv-theme.git themes/dofudo-cv
 ```
-Replace the files in your site root's directory with the ones in `themes/almeida-cv/exampleSite`.
+Replace the files in your site root's directory with the ones in `themes/dofudo-cv/exampleSite`.
 
 ## Start Hugo in development mode
 ```
