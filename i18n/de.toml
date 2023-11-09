@@ -5,7 +5,7 @@ other = "Profil"
 other = "Erfahrung"
 
 [education]
-other = "Bildung"
+other = "Schulbildung"
 
 [references]
 other = "Referenzen"
@@ -21,3 +21,9 @@ other = "Zertifizierungen"
 
 [interests]
 other = "Interessen"
+
+[study]
+other = "Studium"
+
+[personal]
+other = "Persönliches"
