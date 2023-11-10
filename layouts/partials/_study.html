@@ -7,11 +7,11 @@
     </div>
     <div class="section__content">
         {{ range .Study }}
-            <div class="education__item">
-                <h3 class="education__title">{{ .Course | safeHTML }}</h3>
-                <h4 class="education__place">{{ .Place | safeHTML }}</h4>
-                <h4 class="education__date">{{ .Date | safeHTML }}</h4>
-                <div class="education__description">{{ .Details | safeHTML }}</div>
+            <div class="study__item">
+                <h3 class="study__title">{{ .Course | safeHTML }}</h3>
+                <h4 class="study__place">{{ .Place | safeHTML }}</h4>
+                <h4 class="study__date">{{ .Date | safeHTML }}</h4>
+                <div class="study__description">{{ .Details | safeHTML }}</div>
             </div>
         {{ end }}
     </div>
