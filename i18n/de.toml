@@ -32,7 +32,7 @@ other = "Persönliches"
 other = "Geschlecht"
 
 [birthDate]
-ther = "Geburtsdatum"
+other = "Geburtsdatum"
 
 [birthPlace]
-ther = "Geburtsort"
+other = "Geburtsort"
