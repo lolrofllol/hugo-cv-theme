@@ -36,3 +36,6 @@ other = "Geburtsdatum"
 
 [birthPlace]
 other = "Geburtsort"
+
+[maritalStatus]
+other = "Familienstand"
