@@ -27,3 +27,12 @@ other = "Studium"
 
 [personal]
 other = "Persönliches"
+
+[gender]
+other = "Geschlecht"
+
+[birthDate]
+ther = "Geburtsdatum"
+
+[birthPlace]
+ther = "Geburtsort"

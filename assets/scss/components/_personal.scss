@@ -1,0 +1,12 @@
+.personal {
+    &__group {
+        display: inline-flex;
+        // @include avoid-break;
+        align-items: center;
+    }
+    
+    &__item {
+        padding-right: 0.5rem;
+    }
+
+}

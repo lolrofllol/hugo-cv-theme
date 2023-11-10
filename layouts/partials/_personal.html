@@ -15,6 +15,11 @@
             <h3 class="personal__item">{{ i18n "birthDate"}}:</h3>
             <b>{{ .BirthDate | safeHTML }}</b>
         </div>
+        </br>
+        <div class="personal__group">
+            <h3 class="personal__item">{{ i18n "BirthPlace"}}:</h3>
+            <b>{{ .BirthPlace | safeHTML }}</b>
+        </div>
 
         {{if .MaritalStatus}}
             </br>
