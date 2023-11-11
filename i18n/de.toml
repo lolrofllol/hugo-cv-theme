@@ -39,3 +39,6 @@ other = "Geburtsort"
 
 [maritalStatus]
 other = "Familienstand"
+
+[volunteer]
+other = "Ehrenamtliche Tätigkeiten"
